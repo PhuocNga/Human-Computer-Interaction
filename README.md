@@ -8,4 +8,4 @@ This is the final project for [Human Computer Interaction] subject, the first su
    <li>Bootstrap</li>
   <li>Jquery</li>
 <ul>
-  <p>Link websites:</p> http://nhom13.azurewebsites.net/ 
+  <p>Link websites: <span>http://nhom13.azurewebsites.net/ </span></p>
